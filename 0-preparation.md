@@ -10,8 +10,8 @@
 
 2. Microsoft EdgeまたはGoogle Chromeを起動します。
 
-3. 画面右上の```・・・``` > ``` InPrivate Window```（Edgeの場合）または```New Incognito Window```（Chromeの場合）をクリックし、プライベートブラウジングモードを開きます。
-![private](image/00/private.png)
+3. 画面右上の```・・・``` > ```新しい InPrivate ウィンドウ```（Edgeの場合）または```新しいシークレット ウィンドウ```（Chromeの場合）をクリックし、プライベートブラウジングモードを開きます。  
+![private](image/00/private.png)  
 > [!NOTE]
 > 今回のハンズオンでは、全てこのプライベートブラウジングモードを使用します。  
 > プライベートブラウジングモードを使用では、キャッシュやCookieの影響を受けずにサインインできます。
@@ -25,14 +25,21 @@
 2. ```Language and time zone```をクリックします。
 ![language](image/00/langtime.png)
 
-3. ```Language change```のドロップダウンから```Japanease（日本語）```を選択し、```Select```をクリックします。
-![displaylang](image/00/displaylang.png)
+3. ```Display Language```>```Change display language）```をクリックします。  
+![image1](image/00/image1.png)
 
-4. ```Update```をクリックします。
+4. ```Japanese（日本語）```を選択し、```Select```クリックします。  
 ![update](image/00/update.png)
 
-5. 一度サインアウトを求められます。画面の指示に従って一度サインアウトし、再度サインインします。
+5. ```Update```をクリックします。  
+![image2](image/00/image2.png)
+
+6. 一度サインアウトを求められます。画面の指示に従って一度サインアウトし、再度サインインします。
 ![signout](image/00/signout.png)
+> [!IMPORTANT]  
+> 再度サインインしても、My Account上では表示言語が切り替わっていない場合があります。  
+> https://m365.cloud.microsoft/ にアクセスし、言語は問題なく日本語に切り替わっていたら問題ありませんので、次のステップに進んでください。
+
 
 # 次のステップ
 [Agents in SharePoint でエージェントを作成する](1-agents-in-sharepoint.md)
