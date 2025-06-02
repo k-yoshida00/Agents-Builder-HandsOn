@@ -5,15 +5,15 @@
 まず、エージェントを作成するサイトにアクセスしましょう。
 
 > [!NOTE]  
-> 今回の演習で使うサンプルドキュメントを[こちら](./CopilotHandsonDocs/)からダウンロードできます。  
+> 今回の演習で使うサンプルドキュメントは[こちら](./CopilotHandsonDocs/)からダウンロードできます。  
 > 準備中や演習中にドキュメントの内容を確認しておいてください。
 
-1. Microsoft 365 https://m365.cloud.microsoft/ に移動します。
+1. [ホーム | Microosft 365 Copilot](https://m365.cloud.microsoft/) に移動します。
 2. ページの左上で [アプリ起動ツール] アイコンを選択し、[SharePoint] を選択して、SharePoint のスタートページに移動します。  
 ![app-launcher](image/01/app-launcher.png)
 3. [IT Help01]というSharePointサイトを選択します。
 > [!IMPORTANT]  
-> 見つからない場合は、[https://csfcopilot.sharepoint.com/sites/ITHelp01]に直接アクセスしてください。  
+> 見つからない場合は、[https://csfcopilot.sharepoint.com/sites/ITHelp01](https://csfcopilot.sharepoint.com/sites/ITHelp01)に直接アクセスしてください。  
 > もしくは、講師に連絡してください。
   
 4. ナビゲーション メニュー(上部または左側)の[ドキュメント]をクリックしてドキュメントに移動します。今回利用するドキュメントファイルがアップロードされています。  
@@ -53,7 +53,7 @@
 > [!NOTE]
 > エージェントが表示されない場合は、少し待つか、ドキュメント内にある.Agentファイルをクリックして起動させてください。
  
-2.	ここでは、３つあるスタータープロンプトから一つを選択してプロンプトを入力してみてください。　　
+2.	ここでは、３つあるスタータープロンプトから一つを選択してプロンプトを入力してみてください。  
 ![image14](image/01/image14.png)
 
 # 次のステップ
